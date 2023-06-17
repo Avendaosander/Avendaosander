@@ -58,5 +58,5 @@ Actualmente soy estudiante de **Ingeniería de Computación**🖥️
 
 
 ### 📊 **Mis Estadísticas:**
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avendaosander&show_icons=true&locale=en&layout=compact" alt="Avendaosander Languages Used" />
-<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=avendaosander&show_icons=true&locale=en&theme=radical" alt="Avendaosander GitHub Stats " />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Avendaosander&show_icons=true&locale=en&layout=compact" alt="Avendaosander Languages Used" />
+<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=Avendaosander&show_icons=true&locale=en&theme=radical" alt="Avendaosander GitHub Stats " />
