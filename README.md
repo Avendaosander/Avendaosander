@@ -6,9 +6,9 @@
 
 Actualmente soy estudiante de **Ingeniería de Computación**🖥️
 
-<img alt="Alexander Avendaño Profile Views" src="https://komarev.com/ghpvc/?username=Avendaosander&color=blueviolet"/>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Avendaosander?color=blueviolet&style=flat">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Avendaosander?color=blueviolet">
+<img alt="Alexander Avendaño Profile Views" src="https://komarev.com/ghpvc/?username=avendaosander&color=blueviolet"/>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/avendaosander?color=blueviolet&style=flat">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/avendaosander?color=blueviolet">
 </div>
 
 ## 🖥️🛠️**Tecnologías y Herramientas:**
@@ -42,6 +42,7 @@ Actualmente soy estudiante de **Ingeniería de Computación**🖥️
 [![](https://res.cloudinary.com/dtjgc9qlk/image/upload/h_50/v1686888569/Logos/VSC_gxxgs1.webp)](https://code.visualstudio.com/docs)
 [![](https://res.cloudinary.com/dtjgc9qlk/image/upload/w_50/v1686888569/Logos/Xampp_xmlwks.webp)](https://www.apachefriends.org/es/index.html)
 [![](https://res.cloudinary.com/dtjgc9qlk/image/upload/w_50/v1686888569/Logos/Notion_nos8gm.webp)](https://www.notion.so/es-la/product/docs)
+[![](https://res.cloudinary.com/dtjgc9qlk/image/upload/w_50/v1686888569/Logos/Trello_cbnwyv.webp)](https://www.figma.com/)
 [![](https://res.cloudinary.com/dtjgc9qlk/image/upload/w_50,r_max/v1686888569/Logos/Figma_liaq2f.webp)](https://www.figma.com/)
 </div>
 
