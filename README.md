@@ -11,7 +11,7 @@ Actualmente soy estudiante de **Ingeniería de Computación**🖥️
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/avendaosander?color=blueviolet">
 </div>
 
-## 🖥️🛠️**Tecnologías y Herramientas:**
+## 🖥️🛠️ **Tecnologías y Herramientas:**
 <div align="left">
 
 [![](https://res.cloudinary.com/dtjgc9qlk/image/upload/w_40/v1686888569/Logos/html5_xe622o.webp)](https://lenguajehtml.com/html/)
@@ -46,12 +46,12 @@ Actualmente soy estudiante de **Ingeniería de Computación**🖥️
 [![](https://res.cloudinary.com/dtjgc9qlk/image/upload/w_50,r_max/v1686888569/Logos/Figma_liaq2f.webp)](https://www.figma.com/)
 </div>
 
-### 🔍**Encuentrame en:**
-[![Facebook](https://img.shields.io/badge/Facebook-@Alexander-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/alexander.avendano.16)
+### 🔍 **Encuentrame en:**
+[![Facebook](https://img.shields.io/badge/Facebook-@avendaosander26-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/avendaosander26)
 [![Instagram](https://img.shields.io/badge/Instagram-@Avendaosander-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/avendaosander)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alexander-avendaño-3a5115191)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-avendaosander-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/avendaosander)
 
-### 📲**Contacto:**
+### 📲 **Contacto:**
 [![Email](https://img.shields.io/badge/avendano.ramirez@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:avendano.ramirez@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@Avendaosander-0077B5?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://t.me/Avendaosander)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-Alexander-339933?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://api.whatsapp.com/send?phone=584265121891&text=Hola,%20vengo%20desde%20GitHub.)
